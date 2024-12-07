@@ -1,4 +1,4 @@
-# face-recognition-attendance-management
+# Attendance Management System using Face Recognition
 # Face Detection Attendance Management System
 
 This project uses face recognition to automate the attendance marking process. The system detects faces, recognizes names, and marks attendance with color coding. The interface is built using Tkinter.
@@ -24,6 +24,8 @@ This project uses face recognition to automate the attendance marking process. T
 3. Run the system:
     ```bash
     python main.py
+    Jupyter Notebook
+
     ```
 
 ## Requirements:
