@@ -13,7 +13,7 @@ This project uses face recognition to automate the attendance marking process. T
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/darshanpadithya/face-recognition-attendance-management.git
+    git clone https://github.com/Pratikbhor2004/Attendance-Management-System-using-Face-Recognition.git.git
     ```
 
 2. Install dependencies:
